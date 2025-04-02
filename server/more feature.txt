@@ -1,0 +1,17 @@
+
+
+// 1. get user , edit user, delet user
+// 2. user send OTP mail then sign in 
+// 3. reset password , new password
+
+---------------------------------------------------------------
+// 4. in betting odds application adding more feature use more 
+
+------------------------------------------------------------------
+
+// 5. how to add payment api 
+
+....................................................................
+
+// 6. how to add live cricket server
+
